@@ -1,4 +1,4 @@
-```json
+
 {
   "build": {
     "builder": "NIXPACKS"
@@ -10,4 +10,4 @@
     "restartPolicyType": "ON_FAILURE"
   }
 }
-```
+
